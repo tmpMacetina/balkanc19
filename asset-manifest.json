@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/balkanc19/static/css/main.9a152f06.chunk.css",
-    "main.js": "/balkanc19/static/js/main.ff39dbad.chunk.js",
-    "main.js.map": "/balkanc19/static/js/main.ff39dbad.chunk.js.map",
+    "main.css": "/balkanc19/static/css/main.f953d9d6.chunk.css",
+    "main.js": "/balkanc19/static/js/main.f091e8d3.chunk.js",
+    "main.js.map": "/balkanc19/static/js/main.f091e8d3.chunk.js.map",
     "runtime-main.js": "/balkanc19/static/js/runtime-main.f31dd30e.js",
     "runtime-main.js.map": "/balkanc19/static/js/runtime-main.f31dd30e.js.map",
     "static/js/2.8f2fbb4d.chunk.js": "/balkanc19/static/js/2.8f2fbb4d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7ec9aebe.chunk.js": "/balkanc19/static/js/3.7ec9aebe.chunk.js",
     "static/js/3.7ec9aebe.chunk.js.map": "/balkanc19/static/js/3.7ec9aebe.chunk.js.map",
     "index.html": "/balkanc19/index.html",
-    "static/css/main.9a152f06.chunk.css.map": "/balkanc19/static/css/main.9a152f06.chunk.css.map",
+    "static/css/main.f953d9d6.chunk.css.map": "/balkanc19/static/css/main.f953d9d6.chunk.css.map",
     "static/js/2.8f2fbb4d.chunk.js.LICENSE.txt": "/balkanc19/static/js/2.8f2fbb4d.chunk.js.LICENSE.txt",
     "static/media/WBalkans.515828ff.png": "/balkanc19/static/media/WBalkans.515828ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f31dd30e.js",
     "static/js/2.8f2fbb4d.chunk.js",
-    "static/css/main.9a152f06.chunk.css",
-    "static/js/main.ff39dbad.chunk.js"
+    "static/css/main.f953d9d6.chunk.css",
+    "static/js/main.f091e8d3.chunk.js"
   ]
 }
